@@ -12,5 +12,5 @@ Este repositório contém exemplos básicos de código JavaScript.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/meu-repositorio-js.git
+   git clone https://github.com/Vsshouver/js_basic
    cd meu-repositorio-js
